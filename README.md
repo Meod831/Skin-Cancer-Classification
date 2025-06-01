@@ -1,5 +1,5 @@
 # Skin-Cancer-Classification
-This repo includes all necessary files to run the Skin Cancer Application.
+This repo includes all necessary files to run the Skin Cancer Application along with all the code that was used to deveolp this application.
 
 # Introduction
 This project focuses on developing a machine learning model to classify skin cancer based on image data. The goal is to build an accurate and efficient classifier that assists in early detection of skin cancer types.
