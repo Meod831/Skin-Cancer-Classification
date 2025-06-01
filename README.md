@@ -12,5 +12,5 @@ This project focuses on developing a machine learning model to classify skin can
 5. Ashifur Rahman​
 6. Emily Ye
 
-# Get Started
+## Get Started
 Download the .exe file and download it onto your computer to run this program.
