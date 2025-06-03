@@ -67,16 +67,19 @@ You have two options to run the application:
 5. Ashifur Rahman​
 6. Emily Ye
 
+## Owner:
+1. Dr. Romano
+
 ## Get Started
 Dropbox Links and Instructions
 
-Windows: 
+###Windows: 
 https://www.dropbox.com/scl/fi/5tl4lv3qyq6ho9m1n9pho/SCC_App_Windows.exe?rlkey=065mmu3oqt6oop8txao00n6u3&st=lp9yvzin&dl=0
 
 Download app with link,
 Double-click to open app,
  
-MacOS:
+###MacOS:
 https://www.dropbox.com/scl/fi/lyrc413x66bydzoc3e0u8/SCC_App_MacOS.zip?rlkey=a8k2yb82tl3clqd49cjil1664&st=01l866b4&dl=0
 
 Download app with link,
