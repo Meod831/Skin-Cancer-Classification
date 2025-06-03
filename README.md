@@ -39,9 +39,13 @@ app/
 
 ## Usage
 
-You have two options to run the application:
+You have three options to run the application:
 
-### Option 1: From the Command Line
+### Option 1: From Computer
+1. Download the application for your respective operating system down below.
+2. Run the SCC application.
+
+### Option 2: From the Command Line
 1. Open your terminal.
 2. Navigate to the project directory.
 3. Execute the following command:
@@ -49,7 +53,7 @@ You have two options to run the application:
   python main.py
 ```
 
-### Option 2: From IDE
+### Option 3: From IDE
 1. Open the directory in IDE.
 2. Run main.py
 
@@ -73,13 +77,13 @@ You have two options to run the application:
 ## Get Started
 Dropbox Links and Instructions
 
-###Windows: 
+### Windows: 
 https://www.dropbox.com/scl/fi/5tl4lv3qyq6ho9m1n9pho/SCC_App_Windows.exe?rlkey=065mmu3oqt6oop8txao00n6u3&st=lp9yvzin&dl=0
 
 Download app with link,
 Double-click to open app,
  
-###MacOS:
+### MacOS:
 https://www.dropbox.com/scl/fi/lyrc413x66bydzoc3e0u8/SCC_App_MacOS.zip?rlkey=a8k2yb82tl3clqd49cjil1664&st=01l866b4&dl=0
 
 Download app with link,
