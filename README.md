@@ -68,4 +68,21 @@ You have two options to run the application:
 6. Emily Ye
 
 ## Get Started
-Download the .exe file and download it onto your computer to run this program.
+Dropbox Links and Instructions
+
+Windows: 
+https://www.dropbox.com/scl/fi/5tl4lv3qyq6ho9m1n9pho/SCC_App_Windows.exe?rlkey=065mmu3oqt6oop8txao00n6u3&st=lp9yvzin&dl=0
+
+Download app with link,
+Double-click to open app,
+ 
+MacOS:
+https://www.dropbox.com/scl/fi/lyrc413x66bydzoc3e0u8/SCC_App_MacOS.zip?rlkey=a8k2yb82tl3clqd49cjil1664&st=01l866b4&dl=0
+
+Download app with link,
+Prior to opening app, run following command in Terminal,
+xattr -cr /path/to/app/SCC_App.app
+
+Double-click to open app,
+
+MacOS requires additional steps because we do not have a developer account which requires a subscription
