@@ -99,4 +99,4 @@ xattr -cr /path/to/app/SCC_App.app
 MacOS requires additional steps because we do not have a developer account which requires a subscription
 
 ## Credits
-This application was made with the use of the public HAM10000 (https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
+This application was made with the use of the public HAM10000 dataset (https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
