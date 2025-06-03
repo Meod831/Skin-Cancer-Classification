@@ -1,5 +1,8 @@
 # Skin Cancer Classification (SCC) App
 
+## Disclaimer
+This application is for informational purposes only and does not replace professional diagnosis or adivce. Users are advised to go see a specialtist to get a true diagnosis. 
+
 ## Project Description
 
 This PyQt-based GUI application allows users to upload images and classify skin lesions using a custom EfficientNet model. It also keeps records of the classifications.
@@ -94,3 +97,6 @@ xattr -cr /path/to/app/SCC_App.app
 3. Double-click to open app,
 
 MacOS requires additional steps because we do not have a developer account which requires a subscription
+
+## Credits
+This application was made with the usee of the public HAM10000 (https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
